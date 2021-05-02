@@ -6,7 +6,6 @@ def square_array(array)
      new_array << element * element
    end
    return new_array
-    binding.pry
 end
 
 
