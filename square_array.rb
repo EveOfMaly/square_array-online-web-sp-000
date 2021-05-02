@@ -6,7 +6,7 @@ def square_array(array)
    return new_array
 end
 array = [1,2,3]
-p square_array(array)
+
 
 
 
